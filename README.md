@@ -1,5 +1,7 @@
 # Flicker Lamp
 
+![alt text](https://www.youtube.com/watch?v=aYxpBkZpQUU)
+
 ## About
 Filcker lamp is a friendly light source that is not meant to light up a room, necessarily, but to respond to the environment and most of all, your presence.
 The flicker lamp has two main functionalities
