@@ -39,5 +39,5 @@ The four walls of the lantern are made with four individual pieces of wax paper.
 
 The circuit is made with a photoresistor, 6 LED's, and a resistor for each component. You may replicate it by following the picture below. 
 
-https://felswebsite.s3.amazonaws.com/lanterncircuit.JPG
+![alt text](https://felswebsite.s3.amazonaws.com/lanterncircuit.JPG)
 
