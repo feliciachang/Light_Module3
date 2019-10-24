@@ -16,3 +16,28 @@ The circle graphics are controlled by the processing program, udp_led.pde
 The processing program takes the light value received by UDP and draws two corresponding circles, whose sizes are determined by the light value modded by 2000 and 1000, respectively. 
 
 There is also a python program, UDP_Rec.py that I used to check whether the UDP messages were being sent.
+
+
+## The hardware component of Flicker Lamp
+Components:
+- ardunio 
+- photoresistor
+- resistors
+- lipo battery and jst connector to charge it
+- circuit board
+- 6 LED's
+- wax paper
+- foam board
+- soft cardboard
+
+The lantern is a rectangular shape with dimensions 7x9x7 inches.
+
+The bottom is made with a foam board. To the foam board, you can attach your hardware components with duct tape.
+From the corners of the foam board extend four cardboard beams, which are 2 two pieces of cardboard super-glued perpendicularly. 
+
+The four walls of the lantern are made with four individual pieces of wax paper. The cap of the lantern is a detachable piece of wax paper, cut larger with trimmed corners to fold over.
+
+The circuit is made with a photoresistor, 6 LED's, and a resistor for each component. You may replicate it by following the picture below. 
+
+https://felswebsite.s3.amazonaws.com/lanterncircuit.JPG
+
