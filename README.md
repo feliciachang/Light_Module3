@@ -37,7 +37,7 @@ From the corners of the foam board extend four cardboard beams, which are 2 two 
 
 The four walls of the lantern are made with four individual pieces of wax paper. The cap of the lantern is a detachable piece of wax paper, cut larger with trimmed corners to fold over.
 
-The circuit is made with a photoresistor, 6 LED's, and a resistor for each component. You may replicate it by following the picture below. 
+The circuit is made with a photoresistor, 6 LED's, and a resistor for each component. You may replicate it by following the picture below. You may reference the ardunio code to find which pin values to attach the LED and photoresistor to. 
 
 ![alt text](https://felswebsite.s3.amazonaws.com/lanterncircuit.JPG)
 
